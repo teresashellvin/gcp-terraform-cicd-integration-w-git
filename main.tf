@@ -1,5 +1,4 @@
 provider "google" {
-  credentials = file("/home/teresashellvin/elated-capsule-415713-6ed008dd2605.json")
 
 }
 
